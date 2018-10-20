@@ -6,6 +6,3 @@ It provides the services in following ways
   
   •limitiation 
   •offline payment
-  
-  services:C
-  
