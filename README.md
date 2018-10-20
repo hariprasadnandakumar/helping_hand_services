@@ -4,5 +4,4 @@ It provides the services in following ways
   online booking
   sending notification timely
   
-  •limitiation 
-  •offline payment
+ 
